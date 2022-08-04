@@ -1,7 +1,9 @@
 {
-"ptbrgamename":"Trex", 
-"engamename": "Trex", 
-"link": "https://viniciustdaik.github.io/Trex", 
-"gameimg": "https://viniciustdaik.github.io/Trex/trex/trex_idle(eye%20fixed).png"
-
+  "trex": {
+      "ptbrgamename":"Trex", 
+      "engamename": "Trex", 
+      "link": "https://viniciustdaik.github.io/Trex", 
+      "gameimg": "https://viniciustdaik.github.io/Trex/trex/trex_idle(eye%20fixed).png"
+  }
+  
 }
