@@ -1,0 +1,22 @@
+{
+  "trex": {
+    "ptbrgamename":"Trex", 
+    "engamename": "Trex", 
+    "link": "https://viniciustdaik.github.io/Trex", 
+    "gameimg": "https://viniciustdaik.github.io/Trex/trex/trex_idle(eye%20fixed).png"
+  }, 
+  
+  "invasaopirata": {
+    "ptbrgamename":"Invasão Pirata", 
+    "engamename": "Pirate Invasion", 
+    "link": "https://viniciustdaik.github.io/Invas-o-Pirata", 
+    "gameimg": "https://viniciustdaik.github.io/Invas-o-Pirata/assets/boat.png"
+  }, 
+  
+  "pirateinvasion": {
+    "ptbrgamename":"Invasão Pirata", 
+    "engamename": "Pirate Invasion", 
+    "link": "https://viniciustdaik.github.io/Invas-o-Pirata", 
+    "gameimg": "https://viniciustdaik.github.io/Invas-o-Pirata/assets/boat.png"
+  }
+}
