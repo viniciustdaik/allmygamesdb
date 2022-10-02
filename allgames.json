@@ -4,7 +4,7 @@
     "engamename": "Trex", 
     "link": "https://viniciustdaik.github.io/Trex", 
     "gameimg": "https://viniciustdaik.github.io/Trex/trex/trex_idle(eye%20fixed).png", 
-    "compatibleOnMobile": "fully"
+    "compatibleOnMobile": "Total"
   }, 
   
   "invasaopirata": {
@@ -12,7 +12,7 @@
     "engamename": "Pirate Invasion", 
     "link": "https://viniciustdaik.github.io/Invas-o-Pirata", 
     "gameimg": "https://viniciustdaik.github.io/Invas-o-Pirata/assets/boat.png", 
-    "compatibleOnMobile": "partially"
+    "compatibleOnMobile": "Parcial"
   }, 
   
   "pirateinvasion": {
@@ -20,6 +20,6 @@
     "engamename": "Pirate Invasion", 
     "link": "https://viniciustdaik.github.io/Invas-o-Pirata", 
     "gameimg": "https://viniciustdaik.github.io/Invas-o-Pirata/assets/boat.png", 
-    "compatibleOnMobile": "partially"
+    "compatibleOnMobile": "Parcial"
   }
 }
