@@ -5,7 +5,7 @@
     "link": "https://viniciustdaik.github.io/Trex",
     "gameimg": "https://viniciustdaik.github.io/Trex/trex/trex_idle(eye%20fixed).png",
     "compatibleOnMobile": "Total",
-    "show": true
+    "show": false
   },
   {
     "ptbrgamename": "Invasão Pirata",
@@ -13,7 +13,7 @@
     "link": "https://viniciustdaik.github.io/Invas-o-Pirata",
     "gameimg": "https://viniciustdaik.github.io/Invas-o-Pirata/assets/boat.png",
     "compatibleOnMobile": "Parcial",
-    "show": true
+    "show": false
   },
   {
     "ptbrgamename": "Invasão Zumbi",
@@ -21,7 +21,7 @@
     "link": "https://viniciustdaik.github.io/Invas-o-Zumbi",
     "gameimg": "https://viniciustdaik.github.io/Invas-o-Zumbi/assets/zombie/zombie1.png",
     "compatibleOnMobile": "Parcial",
-    "show": true
+    "show": false
   },
   {
     "ptbrgamename": "Estoure Os Balões",
@@ -29,7 +29,7 @@
     "link": "https://viniciustdaik.github.io/Estoure-Os-Bal-es",
     "gameimg": "https://viniciustdaik.github.io/Estoure-Os-Bal-es/bow0.png",
     "compatibleOnMobile": "Total",
-    "show": true
+    "show": false
   },
   {
     "ptbrgamename": "Canguru Na Selva",
@@ -61,7 +61,7 @@
     "link": "https://viniciustdaik.github.io/Corrida-De-Bicicleta",
     "gameimg": "https://viniciustdaik.github.io/Corrida-De-Bicicleta/mainPlayer1.png",
     "compatibleOnMobile": "Total",
-    "show": true
+    "show": false
   },
   {
     "ptbrgamename": "Alimentando O Coelho",
@@ -69,7 +69,7 @@
     "link": "https://viniciustdaik.github.io/Alimentando-O-Coelho",
     "gameimg": "https://viniciustdaik.github.io/Alimentando-O-Coelho/rabbit.png",
     "compatibleOnMobile": "Total",
-    "show": true
+    "show": false
   },
   {
     "ptbrgamename": "Coletando Tesouro",
@@ -85,7 +85,7 @@
     "link": "https://viniciustdaik.github.io/Desviando-De-Fogo",
     "gameimg": "https://viniciustdaik.github.io/Desviando-De-Fogo/snowman/Snowman_2.png",
     "compatibleOnMobile": "Total",
-    "show": true
+    "show": false
   },
   {
     "ptbrgamename": "Passeio De Balão De Ar Quente",
@@ -101,7 +101,7 @@
     "link": "https://viniciustdaik.github.io/Apanhador-De-Frutas",
     "gameimg": "https://viniciustdaik.github.io/Apanhador-De-Frutas/images/banana2.png",
     "compatibleOnMobile": "Sem",
-    "show": true
+    "show": false
   },
   {
     "ptbrgamename": "Campo De Tiro",
