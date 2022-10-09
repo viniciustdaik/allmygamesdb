@@ -1,0 +1,146 @@
+[
+  {
+    "ptbrgamename": "Trex",
+    "engamename": "Trex",
+    "link": "https://viniciustdaik.github.io/Trex",
+    "gameimg": "https://viniciustdaik.github.io/Trex/trex/trex_idle(eye%20fixed).png",
+    "compatibleOnMobile": "Total",
+    "show": true
+  },
+  {
+    "ptbrgamename": "Invasão Pirata",
+    "engamename": "Pirate Invasion",
+    "link": "https://viniciustdaik.github.io/Invas-o-Pirata",
+    "gameimg": "https://viniciustdaik.github.io/Invas-o-Pirata/assets/boat.png",
+    "compatibleOnMobile": "Parcial",
+    "show": true
+  },
+  {
+    "ptbrgamename": "Invasão Zumbi",
+    "engamename": "Zombie Invasion",
+    "link": "https://viniciustdaik.github.io/Invas-o-Zumbi",
+    "gameimg": "https://viniciustdaik.github.io/Invas-o-Zumbi/assets/zombie/zombie1.png",
+    "compatibleOnMobile": "Parcial",
+    "show": true
+  },
+  {
+    "ptbrgamename": "Estoure Os Balões",
+    "engamename": "Pop The Balloons",
+    "link": "https://viniciustdaik.github.io/Estoure-Os-Bal-es",
+    "gameimg": "https://viniciustdaik.github.io/Estoure-Os-Bal-es/bow0.png",
+    "compatibleOnMobile": "Total",
+    "show": true
+  },
+  {
+    "ptbrgamename": "Canguru Na Selva",
+    "engamename": "Kangaroo In The Jungle",
+    "link": "https://viniciustdaik.github.io/Canguru-Na-Selva",
+    "gameimg": "https://viniciustdaik.github.io/Canguru-Na-Selva/assets/kangaroo3.png",
+    "compatibleOnMobile": "Total",
+    "show": true
+  },
+  {
+    "ptbrgamename": "O Coelho E A Melancia",
+    "engamename": "The Rabbit And The Watermelon",
+    "link": "https://viniciustdaik.github.io/O-Coelho-E-A-Melancia",
+    "gameimg": "https://viniciustdaik.github.io/O-Coelho-E-A-Melancia/rabbit/blink/blink_1.png",
+    "compatibleOnMobile": "Total",
+    "show": true
+  },
+  {
+    "ptbrgamename": "Fantasma Na Torre",
+    "engamename": "Ghost In The Tower",
+    "link": "https://viniciustdaik.github.io/Fantasma-Na-Torre",
+    "gameimg": "https://viniciustdaik.github.io/Fantasma-Na-Torre/ghost/ghost-standing_2.png",
+    "compatibleOnMobile": "Sem",
+    "show": true
+  },
+  {
+    "ptbrgamename": "Corrida De Bicicleta",
+    "engamename": "Bicycle Race",
+    "link": "https://viniciustdaik.github.io/Corrida-De-Bicicleta",
+    "gameimg": "https://viniciustdaik.github.io/Corrida-De-Bicicleta/mainPlayer1.png",
+    "compatibleOnMobile": "Total",
+    "show": true
+  },
+  {
+    "ptbrgamename": "Alimentando O Coelho",
+    "engamename": "Feeding The Rabbit",
+    "link": "https://viniciustdaik.github.io/Alimentando-O-Coelho",
+    "gameimg": "https://viniciustdaik.github.io/Alimentando-O-Coelho/rabbit.png",
+    "compatibleOnMobile": "Total",
+    "show": true
+  },
+  {
+    "ptbrgamename": "Coletando Tesouro",
+    "engamename": "Collecting Teasure",
+    "link": "https://viniciustdaik.github.io/Coletando-Tesouro",
+    "gameimg": "https://viniciustdaik.github.io/Coletando-Tesouro/Runner-1.png",
+    "compatibleOnMobile": "Total",
+    "show": true
+  },
+  {
+    "ptbrgamename": "Desviando De Fogo",
+    "engamename": "Dodging Fire",
+    "link": "https://viniciustdaik.github.io/Desviando-De-Fogo",
+    "gameimg": "https://viniciustdaik.github.io/Desviando-De-Fogo/snowman/Snowman_2.png",
+    "compatibleOnMobile": "Total",
+    "show": true
+  },
+  {
+    "ptbrgamename": "Passeio De Balão De Ar Quente",
+    "engamename": "Hot Air Balloon Ride",
+    "link": "https://viniciustdaik.github.io/Passeio-De-Bal-o-De-Ar-Quente",
+    "gameimg": "https://viniciustdaik.github.io/Passeio-De-Bal-o-De-Ar-Quente/Images/HotAirBallon01.png",
+    "compatibleOnMobile": "Sem",
+    "show": true
+  },
+  {
+    "ptbrgamename": "Apanhador De Frutas",
+    "engamename": "Fruit Catcher",
+    "link": "https://viniciustdaik.github.io/Apanhador-De-Frutas",
+    "gameimg": "https://viniciustdaik.github.io/Apanhador-De-Frutas/images/banana2.png",
+    "compatibleOnMobile": "Sem",
+    "show": true
+  },
+  {
+    "ptbrgamename": "Campo De Tiro",
+    "engamename": "Shooting Range",
+    "link": "https://viniciustdaik.github.io/Campo-De-Tiro",
+    "gameimg": "https://viniciustdaik.github.io/Campo-De-Tiro/gun1.png",
+    "compatibleOnMobile": "Total",
+    "show": false
+  },
+  {
+    "ptbrgamename": "Arqueiro Épico",
+    "engamename": "Epic Archery",
+    "link": "https://viniciustdaik.github.io/Arqueiro-pico",
+    "gameimg": "https://viniciustdaik.github.io/Arqueiro-pico/assets/board.png",
+    "compatibleOnMobile": "Sem",
+    "show": true
+  },
+  {
+    "ptbrgamename": "A Aventura De Elizabeth",
+    "engamename": "The Adventure Of Elizabeth",
+    "link": "https://viniciustdaik.github.io/A-Aventura-De-Elizabeth",
+    "gameimg": "https://viniciustdaik.github.io/A-Aventura-De-Elizabeth/menina/idle/menina-idle-left.png",
+    "compatibleOnMobile": "Sem",
+    "show": true
+  },
+  {
+    "ptbrgamename": "Corrida De Carros",
+    "engamename": "",
+    "link": "https://viniciustdaik.github.io/Corrida-De-Carros",
+    "gameimg": "https://viniciustdaik.github.io/Corrida-De-Carros/BANDEIRINHA.png",
+    "compatibleOnMobile": "Sem",
+    "show": true
+  },
+  {
+    "ptbrgamename": "Calculadora",
+    "engamename": "Calculator",
+    "link": "https://viniciustdaik.github.io/Calculator",
+    "gameimg": "https://viniciustdaik.github.io/Calculator/icon.png",
+    "compatibleOnMobile": "Total",
+    "show": true
+  }
+]
