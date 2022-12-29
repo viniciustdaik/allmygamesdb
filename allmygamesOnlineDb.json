@@ -8,6 +8,14 @@
     "show": true
   },
   {
+    "ptbrgamename": "Conta",
+    "engamename": "Account",
+    "link": "https://viniciustdaik.github.io/Account",
+    "gameimg": "",
+    "compatibleOnMobile": "Total",
+    "show": true
+  },
+  {
     "ptbrgamename": "Invasão Pirata",
     "engamename": "Pirate Invasion",
     "link": "https://viniciustdaik.github.io/Invas-o-Pirata",
