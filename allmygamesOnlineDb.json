@@ -61,7 +61,7 @@
     "link": "https://viniciustdaik.github.io/Fantasma-Na-Torre",
     "gameimg": "https://viniciustdaik.github.io/Fantasma-Na-Torre/ghost/ghost-standing_2.png",
     "compatibleOnMobile": "Sem",
-    "show": true
+    "show": "pc"
   },
   {
     "ptbrgamename": "Corrida De Bicicleta",
@@ -101,7 +101,7 @@
     "link": "https://viniciustdaik.github.io/Passeio-De-Bal-o-De-Ar-Quente",
     "gameimg": "https://viniciustdaik.github.io/Passeio-De-Bal-o-De-Ar-Quente/Images/HotAirBallon01.png",
     "compatibleOnMobile": "Sem",
-    "show": true
+    "show": "pc"
   },
   {
     "ptbrgamename": "Apanhador De Frutas",
@@ -109,7 +109,7 @@
     "link": "https://viniciustdaik.github.io/Apanhador-De-Frutas",
     "gameimg": "https://viniciustdaik.github.io/Apanhador-De-Frutas/images/banana2.png",
     "compatibleOnMobile": "Sem",
-    "show": true
+    "show": "pc"
   },
   {
     "ptbrgamename": "Campo De Tiro",
@@ -125,7 +125,7 @@
     "link": "https://viniciustdaik.github.io/Arqueiro-pico",
     "gameimg": "https://viniciustdaik.github.io/Arqueiro-pico/assets/board.png",
     "compatibleOnMobile": "Sem",
-    "show": true
+    "show": "pc"
   },
   {
     "ptbrgamename": "A Aventura De Elizabeth",
@@ -133,7 +133,7 @@
     "link": "https://viniciustdaik.github.io/A-Aventura-De-Elizabeth",
     "gameimg": "https://viniciustdaik.github.io/A-Aventura-De-Elizabeth/assets/menina/idle/menina-idle-right.png",
     "compatibleOnMobile": "Sem",
-    "show": true
+    "show": "pc"
   },
   {
     "ptbrgamename": "Corrida De Carros",
@@ -141,7 +141,7 @@
     "link": "https://viniciustdaik.github.io/Corrida-De-Carros",
     "gameimg": "https://viniciustdaik.github.io/Corrida-De-Carros/BANDEIRINHA.png",
     "compatibleOnMobile": "Sem",
-    "show": true
+    "show": "pc"
   },
   {
     "ptbrgamename": "Calculadora",
